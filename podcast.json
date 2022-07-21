@@ -1,0 +1,71 @@
+{
+  "episode": {
+    "media": {
+      "mp3": "https://main.podigee-cdn.net/media/podcast_53990_power_to_the_pdcst_pdcst_starten_monetarisieren_und_zum_erfolg_fuhren_episode_812219_003_diese_4_pdcst_formate_sind_die_haufigsten_welches_wahlst_du.mp3?v=1657210689&source=webplayer",
+      "aac": "https://main.podigee-cdn.net/media/podcast_53990_power_to_the_pdcst_pdcst_starten_monetarisieren_und_zum_erfolg_fuhren_episode_812219_003_diese_4_pdcst_formate_sind_die_haufigsten_welches_wahlst_du.m4a?v=1657210689&source=webplayer",
+      "vorbis": "https://main.podigee-cdn.net/media/podcast_53990_power_to_the_pdcst_pdcst_starten_monetarisieren_und_zum_erfolg_fuhren_episode_812219_003_diese_4_pdcst_formate_sind_die_haufigsten_welches_wahlst_du.ogg?v=1657210689&source=webplayer",
+      "opus": "https://main.podigee-cdn.net/media/podcast_53990_power_to_the_pdcst_pdcst_starten_monetarisieren_und_zum_erfolg_fuhren_episode_812219_003_diese_4_pdcst_formate_sind_die_haufigsten_welches_wahlst_du.opus?v=1657210689&source=webplayer"
+    },
+    "coverUrl": "https://images.podigee-cdn.net/400x,sNw-AeI-9C1m_uMF7vB_cId37hjHz81ki4LZu1FRssL8=/https://cdn.podigee.com/uploads/u38547/515def99-8f97-491e-8bbf-d1ed40ba8716.jpg",
+    "title": "003: Diese 4 Podcast-Formate sind die häufigsten. Welches wählst du?",
+    "subtitle": "Klingt nach \"Qual der Wahl\"? Nein, das ist es aber nicht! ;)",
+    "description": "<p>Nicht nur für den Podcast-Start sollte man sich überlegen, welches Format man benutzt. Auch im Verlauf kann das sinnvoll sein, denn mit dem Wechsel eines Formats grenzt man sich ggf. sofort vom Wettbewerb ab. Und da Podcasting der Wilde Westen ist, ist Flexibilität eine gute Eigenschaft. </p>\n<p>Du hast noch keinen Podcast oder möchtest wechseln und interessierst dich für Podigee? Dann findest du <strong><a href=\"https://www.podigee.com/de/preise?utm_source=podigeede&amp;utm_medium=referral&amp;utm_campaign=e-de-de-power-to-the-podcast&amp;utm_content=episode-003\">hier die Möglichkeit Podigee 14 Tage komplett kostenfrei auszuprobieren</a></strong>.</p>\n<p><strong>SHOWNOTES</strong></p>\n<ul>\n<li><a href=\"https://www.tirok-training.de/podcast-interviewhelden/\">Interviewtipps von Markus Tirok</a></li>\n</ul>",
+    "chaptermarks": [],
+    "url": "https://power-to-the-podcast.podigee.io/3-podcast-formate",
+    "embedCode": "<script class=\"podigee-podcast-player\"\n src=\"https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js\"\n data-configuration=\"https://power-to-the-podcast.podigee.io/3-podcast-formate/embed?context=external\"></script>",
+    "transcript": null,
+    "number": 3,
+    "duration": 1649,
+    "published_at": "2022-07-07T15:29:20.969Z",
+    "updated_at": "2022-07-08T13:41:49.091Z"
+  },
+  "podcast": {
+    "feed": "https://power-to-the-podcast.podigee.io/feed/mp3",
+    "title": "Power To The Podcast - Podcast starten, monetarisieren und zum Erfolg führen",
+    "subtitle": null,
+    "description": "Dieser Podcast richtet sich an alle, die ernsthaft einen Podcast starten und betreiben wollen. Alles mit dem Ziel, den Podcast als Marketing- oder Markeninstrument zu nutzen oder mit dem Podcast mittelfristig Geld zu verdienen. \n\nHier geht es um die Strategien, die man braucht, um eine erfolgreiche Show an den Start zu bekommen. Dieser Podcast soll deine \"unfaire Abkürzung\" sein, mit dem du dir einen Vorteil gegenüber anderen Podcasterinnen und Podcaster verschaffst. \n\nPodigee ist der Herausgeber dieses Podcasts und der größte Podcast-Hoster Europas. Der Host dieser Show ist der Podigee-Podcast-Evangelist Gordon Schönwälder. Selber seit 2011 Podcaster mit einem Katalog an über 650 eigenen Episoden in verschiedensten Formaten. \n\nEr begleitet als Business-Podcast-Coach Selbständige und Unternehmen jedweder Größe und hilft ihnen dabei die unternehmerischen Ziele des Podcasts zu erreichen.",
+    "coverUrl": "https://images.podigee-cdn.net/400x,sNw-AeI-9C1m_uMF7vB_cId37hjHz81ki4LZu1FRssL8=/https://cdn.podigee.com/uploads/u38547/515def99-8f97-491e-8bbf-d1ed40ba8716.jpg",
+    "embedCode": "<script class=\"podigee-podcast-player\"\n src=\"https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js\"\n data-configuration=\"https://power-to-the-podcast.podigee.io/embed?context=external\"></script>",
+    "episodes": "https://power-to-the-podcast.podigee.io/embed/playlist",
+    "url": "https://power-to-the-podcast.podigee.io/",
+    "connections": {
+      "itunes": "https://podcasts.apple.com/podcast/id1635317745",
+      "spotify": "https://open.spotify.com/show/3TxGSIMiRm8ty6x5syjswp",
+      "deezer": "https://www.deezer.com/show/3860507",
+      "google": "https://podcasts.google.com/subscribe-by-rss-feed?feed=aHR0cHM6Ly9wb3dlci10by10aGUtcG9kY2FzdC5wb2RpZ2VlLmlvL2ZlZWQvbXAz"
+    },
+    "language": "de"
+  },
+  "extensions": {
+    "ChapterMarks": {
+      "disabled": false
+    },
+    "Download": {
+      "disabled": false
+    },
+    "EpisodeInfo": {
+      "disabled": false
+    },
+    "Playlist": {
+      "disabled": false
+    },
+    "Share": {
+      "disabled": false
+    },
+    "Transcript": {
+      "disabled": false
+    },
+    "SubscribeBar": {
+      "disabled": false
+    }
+  },
+  "options": {
+    "theme": "standard",
+    "sslProxy": "https://cdn.podigee.com/ssl-proxy/",
+    "startPanel": null,
+    "whitelabelEnabled": false,
+    "themeVersion": 2,
+    "themeCss": "http://0.0.0.0:8080/themes/standard/index.css",
+    "themeHtml": "http://0.0.0.0:8080/themes/standard/index.html"
+  }
+}
