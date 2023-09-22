@@ -1,0 +1,17 @@
+{
+  "name": "podigee-podcast-player-theme-sdk",
+  "version": "1.0.0",
+  "description": "Testing your custom podigee webplayer theme made easy",
+  "author": "Podigee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/podigee/podigee-podcast-player-theme-sdk/issues"
+  },
+  "homepage": "https://github.com/podigee/podigee-podcast-player-theme-sdk#readme",
+  "scripts": {
+    "start": "npx http-server --port 8080 --cors"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
