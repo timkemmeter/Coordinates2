@@ -24,13 +24,19 @@ This repository contains the necessary documentation and materials to get you st
 }
 ```
 
-4. Start a simple CORS-enabled Python 3 webserver from the root of the repository folder to serve a webpage with the embedded player that uses your own theme:
+4. As next step we need a simple CORS-capable webserver. As a dependency in this repository we are already using `http-server`. You can simply install this dependency via the command line:
 
 ```bash
-$ python3 httpserver.py
+$ npm install
 ```
 
-You can pass a specific port to the script. Please make sure to change all occurrences of 8080 in this repository (`index.html, podcast.json`) in this case.
+After the installation was successful, you can easily start the webserver with enabled CORS, running on port 8080:
+
+```bash
+$ npm start
+```
+
+Feel free to change the port (or add further options for the server) via the `package.json`. Please make sure to change all occurrences of the default port 8080 in this repository (`index.html, podcast.json`) in case you are using a different port.
 
 5. Open a web browser with the URL `http://0.0.0.0:8080`.
 6. Start being creative and adjust / extend the CSS file in the folder of `my-theme` with the styling information that fits your preferences / requirements. 😎
