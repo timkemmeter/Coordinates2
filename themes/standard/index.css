@@ -22,7 +22,7 @@
 
 .podcast-player {
   color: var(--black);
-  font-family: 'Avenir', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+  font-family: 'LH_normal','Avenir', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
     Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif !important;
   min-width: 100%;
   overflow: hidden;
@@ -40,7 +40,7 @@
   box-sizing: border-box;
 }
 .podcast-player button {
-  font-family: 'Avenir', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+  font-family: 'LH_normal','Avenir', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
     Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif !important;
 }
 .podcast-player .podcast-player-inside {
