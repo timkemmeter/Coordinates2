@@ -33,7 +33,7 @@
 }
 .podcast-player .podcast-player-inside {
   background-color: var(--white);
-  border: 1px solid #000;
+  border: 1px solid #ffffff;
   border-radius: 0px;
 }
 .podcast-player a {
