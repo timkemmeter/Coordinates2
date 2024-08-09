@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'LH_bold';
-  src: url(https://singular-churros-900d15.netlify.app/fonts/LufthansaOfficeHead-Bold.ttf') format('ttf');
+  src: url('https://singular-churros-900d15.netlify.app/fonts/LufthansaOfficeHead-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
   font-family: 'LH_normal';
-  src: url(https://singular-churros-900d15.netlify.app/fonts/LufthansaOfficeHead.ttf') format('ttf');
+  src: url('https://singular-churros-900d15.netlify.app/fonts/LufthansaOfficeHead.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
