@@ -65,7 +65,7 @@
     "startPanel": null,
     "whitelabelEnabled": false,
     "themeVersion": 2,
-    "themeCss": "http://0.0.0.0:8080/themes/standard/index.css",
-    "themeHtml": "http://0.0.0.0:8080/themes/standard/index.html"
+    "themeCss": "https://singular-churros-900d15.netlify.app/themes/standard/index.css",
+    "themeHtml": "https://singular-churros-900d15.netlify.app/themes/standard/index.html"
   }
 }
