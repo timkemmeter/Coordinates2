@@ -65,7 +65,7 @@
     "startPanel": null,
     "whitelabelEnabled": false,
     "themeVersion": 2,
-    "themeCss": "https://raw.githubusercontent.com/timkemmeter/Coordinates2/main/themes/standard/index.css",
-    "themeHtml": "https://raw.githubusercontent.com/timkemmeter/Coordinates2/main/themes/standard/index.html"
+    "themeCss": "http://0.0.0.0:8080/themes/standard/index.css",
+    "themeHtml": "http://0.0.0.0:8080/themes/standard/index.html"
   }
 }
