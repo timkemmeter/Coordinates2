@@ -18,7 +18,7 @@
   position: relative;
   width: 1px;
   -webkit-font-smoothing: antialiased;
-  border-radius: 15px;
+  border-radius: 0px;
   padding-right: 1px;
 }
 .podcast-player,
