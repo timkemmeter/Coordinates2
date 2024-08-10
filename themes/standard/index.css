@@ -720,7 +720,7 @@
   .player-info-wrap
   .episode-basic-info
   h2 {
-  font-size: 24px;
+  font-size: 40px;
   line-height: 33px;
   margin: 0;
 }
@@ -735,7 +735,7 @@
     .player-info-wrap
     .episode-basic-info
     h2 {
-    font-size: 22px;
+    font-size: 40px;
     line-height: 30px;
   }
 }
@@ -750,7 +750,7 @@
     .player-info-wrap
     .episode-basic-info
     h2 {
-    font-size: 16px !important;
+    font-size: 40px !important;
     line-height: 22px !important;
   }
 }
@@ -858,18 +858,18 @@
   border-radius: 0px;
   padding: 25px;
   background-color: var(--main-player-color);
-  font-size: 24px;
+  font-size: 16px;
   line-height: 33px;
 }
 @media only screen and (max-width: 991px) {
   .podcast-player .cover-image-player-wrap .player-info-wrap .splash-button {
-    font-size: 22px;
+    font-size: 14px;
     line-height: 30px;
   }
 }
 @media only screen and (max-width: 767px) {
   .podcast-player .cover-image-player-wrap .player-info-wrap .splash-button {
-    font-size: 20px;
+    font-size: 12px;
     line-height: 28px;
   }
 }
