@@ -19,7 +19,9 @@
   --white: #ffffff;
   --grey: #808080;
 }
-
+.episode-title {
+  font-family: 'LH_bold', sans-serif;
+}
 .podcast-player {
   color: var(--black);
   font-family: 'LH_normal','Avenir', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
