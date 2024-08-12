@@ -18,10 +18,11 @@
   --black: #000000;
   --white: #ffffff;
   --grey: #808080;
+  --blue: #05164D;
 }
 .episode-title {
   font-family: 'LH_bold', sans-serif;
-  color: #05164D;
+  color: var(--blue);
 }
 .podcast-player {
   color: var(--black);
