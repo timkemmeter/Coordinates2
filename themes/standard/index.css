@@ -21,6 +21,7 @@
 }
 .episode-title {
   font-family: 'LH_bold', sans-serif;
+  color: #05164D;
 }
 .podcast-player {
   color: var(--black);
