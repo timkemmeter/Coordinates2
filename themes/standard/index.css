@@ -3,7 +3,6 @@
   src: url('https://singular-churros-900d15.netlify.app/fonts/LufthansaOfficeHead-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
-  color: #05164D;
 }
 @font-face {
   font-family: 'LH_normal';
@@ -23,6 +22,7 @@
 }
 .episode-title {
   font-family: 'LH_bold', sans-serif;
+  color: #05164D !important;
 }
 .podcast-player {
   color: var(--black);
