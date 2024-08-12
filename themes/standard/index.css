@@ -3,7 +3,7 @@
   src: url('https://singular-churros-900d15.netlify.app/fonts/LufthansaOfficeHead-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
-  font-color: #05164D;
+  color: #05164D;
 }
 @font-face {
   font-family: 'LH_normal';
