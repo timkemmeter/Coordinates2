@@ -1,4 +1,4 @@
-.podcast-player .buttons .subscribe-menu-button.button-active:after {
+.podcast-player .buttons .subscribe-menu-button.button-active:after, .podcast-player .buttons .share-menu-button.button-active:after {
     display: none !important;
 }
 @font-face {
