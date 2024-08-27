@@ -1,3 +1,6 @@
+.podcast-player .buttons .subscribe-menu-button.button-active:after {
+    display: none !important;
+}
 @font-face {
   font-family: 'LH_bold';
   src: url('https://singular-churros-900d15.netlify.app/fonts/LufthansaOfficeHead-Bold.ttf') format('truetype');
